@@ -12,3 +12,6 @@ Further analysis
 3.	Analyze how effectively various product lines and deal sizes are performing.
 4.	Split up your clientele according to their purchasing patterns and location.
 
+5.	Retail Data Analysis Dashboard
+
+![Tableau Retail data analysis](https://github.com/user-attachments/assets/792e7653-5f6c-4803-9769-26e5e38c5b32)
